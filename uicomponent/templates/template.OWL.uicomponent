@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXComponent id="Xsux9WPRa4A56IW6V1L8Rm" name="template.OWL.uicomponent" componentType="embedded" AuthorizationClassificationCode="Application" helpId="" enableBackendOperationsClubbing="true" designtimeVersion="25.0.555.1045" modelVersion="1.0" xmlns="http://www.sap.com/a1s/cd/oberon/uxcomponent-1.0" xmlns:base="http://www.sap.com/a1s/cd/oberon/base-1.0" xmlns:uxv="http://www.sap.com/a1s/cd/oberon/uxview-1.0" xmlns:uxc="http://www.sap.com/a1s/cd/oberon/uxcontroller-1.0">
+  <uxc:Interface id="YynnokQXd4EmtNTTHaf280">
+  </uxc:Interface>
+  <uxc:Implementation id="luO7nSEnDKc5mREhsSPHoG">
+  </uxc:Implementation>
+  <uxc:Navigation id="RbAsguA_rqo1x2Vn3v3KZG">
+  </uxc:Navigation>
+  <uxc:RBAMData id="q9ApQ2RCtaUNb3Od$N9jw0" accessCheckMode="PrivilegedExceptAccessControlledBusinessObjects" />
+  <uxc:Prerequisites />
+  <uxc:TechnicalConflicts />
+  <uxc:SoDConflicts />
+  <UXView id="HxX$OvuQn42ySaqv6PZiE0" patternType="owl">
+    <uxv:IdentificationRegion id="Ksoo6pn2jKsqe3KF$8UdaW" />
+    <uxv:ViewContainerRegion id="3g9MpWbZiKUVMxChq1c68G">
+      <uxv:View id="wIDNfTtiqK2ihhXWEwQ_Om" columns="2" rows="2">
+      </uxv:View>
+    </uxv:ViewContainerRegion>
+    <uxv:ModalDialogs id="_xKQSI5eY4oEGQy0MoCvqW" />
+    <uxv:SideCarViewPanels id="gfA$Ts2COKM$BisvqspeIW" />
+  </UXView>
+  <TextPool>
+    <base:TextBlock language="EN" masterLanguage="true" currentLanguage="true">
+    </base:TextBlock>
+  </TextPool>
+</UXComponent>

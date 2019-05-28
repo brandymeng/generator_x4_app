@@ -1,0 +1,26 @@
+{
+  "name": "generator-x4_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "files": [
+    "app",
+    "package",
+    "bo",
+    "uicomponent"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "mkdirp": "^0.5.1",
+    "underscore.string": "^3.3.5",
+    "yeoman-generator": "^4.0.0"
+  }
+}

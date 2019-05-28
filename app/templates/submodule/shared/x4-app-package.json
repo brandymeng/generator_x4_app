@@ -1,0 +1,32 @@
+{
+    "package": {
+        "name": "<%= `${appname}/${subappname}` %>",
+        "version": "1.0.0"
+    },
+    "workCenters": [
+        {
+            "id": "<%= `${appname}_${subappname}` %>",
+            "title": "",
+            "icon": "",
+            "businessArea": "",
+            "devices": "*",
+            "views": [ 
+
+            ],
+            "commonTasks": []
+        }
+    ],
+    "publicAssignedObjects": [
+    ],
+    "setupActions": {
+        "sanityChecks": [
+        ],
+        "actions": [
+            {
+                "fromVersion": "*",
+                "steps": [
+                ]
+            }
+        ]
+    }
+}

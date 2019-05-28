@@ -1,0 +1,26 @@
+{
+    "name": "<%= slugify(appname) %>",
+    "version": "0.1.0",
+    "description": " ",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": " "
+    },
+    "scripts": {
+        "start": "node ./node_modules/@sap/x4/sap/start.js",
+        "pretest": "npm run build",
+        "test": "mocha --reporter spec \"./tests/**/*.test.js\""
+    },
+    "engines": {
+        "node": "^10.14.1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    }
+}

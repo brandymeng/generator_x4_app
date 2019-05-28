@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UXComponent id="xx" name="template" AuthorizationClassificationCode="Application" helpId="" enableBackendOperationsClubbing="true" designtimeVersion="25.0.555.1045" modelVersion="1.0" xmlns="http://www.sap.com/a1s/cd/oberon/uxcomponent-1.0" xmlns:base="http://www.sap.com/a1s/cd/oberon/base-1.0" xmlns:uxv="http://www.sap.com/a1s/cd/oberon/uxview-1.0" xmlns:uxc="http://www.sap.com/a1s/cd/oberon/uxcontroller-1.0">
+  <uxc:Interface id="xx">
+  </uxc:Interface>
+  <UXView id="xx" patternType="quickActivity">
+    <uxv:IdentificationRegion id="xx">
+      <uxv:Title id="xx" textPoolId="text_title"/>
+    </uxv:IdentificationRegion>
+    <uxv:ViewContainerRegion id="xx">
+      <uxv:View id="xx" columns="1" rows="1">
+      </uxv:View>
+    </uxv:ViewContainerRegion>
+  </UXView>
+</UXComponent>
