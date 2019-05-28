@@ -165,7 +165,8 @@ writing(){
   // create directory
   if (this.options.createDirectory) {
 
-
+    this.subappname = path.basename(this.options.dirname);
+    
     this.destinationRoot('./')
             //modify the x4-app.json to add new namespace
             this.options.namespace = {

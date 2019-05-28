@@ -218,7 +218,8 @@ uicomponentname(){
 
         //create submodule
         if (this.options.createsubDirectory) {
-
+          
+        this.subappname = path.basename(this.options.subdirname);
         //modify the x4-app.json to add new namespace
         this.options.namespace = {
           "namespace": `${this.rootnamespace}/${this.appname}/${this.subappname}`,
